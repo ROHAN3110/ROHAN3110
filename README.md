@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vinay Makade</h1>
+<h1 align="center">Hi 👋, I'm Rohan Tiwari</h1>
 
 <h1 align="left">About me!</h1>
 <p align="left">One who likes to code and live in the world of web development </p>
