@@ -28,11 +28,11 @@ In My free time I love to play , cricket ,watching movies and learning about new
 
 <br/>
 <p>
-    <a href="https://github-readme-streak-stats.herokuapp.com/?user=Vinay2603&theme=tokyonight&hide_border=true&bg_color=0D1117">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="vinay's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Vinay2603&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+    <a href="https://github-readme-streak-stats.herokuapp.com/?user=ROHAN3110&theme=tokyonight&hide_border=true&bg_color=0D1117">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="rohan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ROHAN3110&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
     </a>
 </p>
 
- <a href="https://vinay-makade-portfolio-vinay2603.vercel.app/">
+ <a href="https://rohan-tiwari-portfolio-vinay2603.vercel.app/">
     Visit my website
 </a>
