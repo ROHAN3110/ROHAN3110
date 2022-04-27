@@ -8,7 +8,7 @@ In My free time I love to play , cricket ,watching movies and learning about new
 
 - 🔭 I’m currently working on **my existing Projects**
 
-- 🌱 I’m currently learning **React
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **interesting projects**
 
